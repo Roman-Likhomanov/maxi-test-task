@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maxi-test-task/static/css/main.1e475e28.css",
+    "main.js": "/maxi-test-task/static/js/main.31c76e95.js",
+    "static/js/787.28cb0dcd.chunk.js": "/maxi-test-task/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/maxi-test-task/index.html",
+    "main.1e475e28.css.map": "/maxi-test-task/static/css/main.1e475e28.css.map",
+    "main.31c76e95.js.map": "/maxi-test-task/static/js/main.31c76e95.js.map",
+    "787.28cb0dcd.chunk.js.map": "/maxi-test-task/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e475e28.css",
+    "static/js/main.31c76e95.js"
+  ]
+}
